@@ -13,8 +13,6 @@ View the source code on [GitHub](https://github.com/alphacrypto246/Email-Spam-Ha
 - [Using run.py for Inference](#using-runpy-for-inference)
 - [Dataset](#dataset)
 - [Model and Preprocessing Details](#model-and-preprocessing-details)
-- [Troubleshooting](#troubleshooting)
-- [Notes](#notes)
 
 ## Project Structure
 
