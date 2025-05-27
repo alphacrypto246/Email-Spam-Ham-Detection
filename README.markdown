@@ -136,7 +136,3 @@ The [`run.py`][run-script] script predicts whether new text is spam or ham using
 - **Vectorizer**: [`TfidfVectorizer`][tfidf] with `max_features=3000` creates TF-IDF features.
 - **Model**: [`MultinomialNB`][naive-bayes] classifier predicts binary labels (0 = ham, 1 = spam).
 - **Preprocessing**: Text is lowercased, punctuation is removed, and whitespace is normalized. Ensure `preprocess_text` in [`run.py`][run-script] aligns with [`spam_detection_preprocessing.ipynb`][preprocessing-notebook].
-
-## Troubleshooting
-
-- **FileNot
